@@ -1,2 +1,2 @@
 # Landuse-ResNet
-Deep learning for predict satellite images using TensorFlow
+Deep learning for predict satellite images using ResNet50.
